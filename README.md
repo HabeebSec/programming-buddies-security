@@ -1,2 +1,1 @@
-# programming-buddies-security
-GitHub Security and DevSecOps Fundamentals
+This repository demonstrates GitHub security best practices.
